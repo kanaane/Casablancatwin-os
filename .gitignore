@@ -1,0 +1,9 @@
+﻿data/citytwin.db
+data/*.db
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+*.iml
